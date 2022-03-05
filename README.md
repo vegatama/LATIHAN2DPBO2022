@@ -1,6 +1,8 @@
 # LATIHAN2DPBO2022
 Latihan praktikum DPBO ke-2
 
+janji : Saya Vegatama Firdiady mengerjakan Latihan 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 program ini mengadaptasi desain berbentuk Multilevel Inheritance dengan class product sebagai super class, class hardware sebagai derived class 1, dan class memory sebagai derived class 2. atribut di dalam class semua berbentuk string bertipe private yang bisa diakses dengan setter dan getter.
 
 #  screenshot hasil program
